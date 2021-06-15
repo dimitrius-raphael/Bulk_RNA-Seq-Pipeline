@@ -4,5 +4,5 @@ This workflow contains the individual scripts and snakemake file for Bulk RNA Se
 -----------------------------------------------------------------------------------------------------------
 For Post-alignment steps, check out the following packages and their respective vignettes:
 
-DESeq2(https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
+[DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 
