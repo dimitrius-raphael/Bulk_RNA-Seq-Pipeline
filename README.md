@@ -2,11 +2,11 @@
 
 This workflow contains the individual scripts and snakemake file for Bulk RNA Seq Sample Alignment in Linux
 -----------------------------------------------------------------------------------------------------------
-For Differential Gene Expression steps, check out the following packages and their respective vignettes:
+For Differential Gene Expression steps, check out the following packages and their respective vignettes:\n
 
-[DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
-[edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html)
-[limma](https://bioconductor.org/packages/release/bioc/html/limma.html)
+[DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)\n
+[edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html)\n
+[limma](https://bioconductor.org/packages/release/bioc/html/limma.html)\n
 
 
 After Differential Gene Expression Analysis, it is common to perform a pathway analysis. The following packages and programs are rather useful for these steps:
